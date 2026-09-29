@@ -28,7 +28,7 @@ It allows event organizers to create events and collect questions from their aud
 
 ### Audience Questions
 
-<img width="1408" height="881" alt="EventQ-Audiencepage" src="https://github.com/user-attachments/assets/961e8803-aa4b-46f3-8a99-9eb8f62bd9c5" />
+<img width="1080" height="2027" alt="EventQ-AudienceQpage" src="https://github.com/user-attachments/assets/97cfc72e-b7af-42ef-985a-e75f2d8797d3" />
 
 
 ---
