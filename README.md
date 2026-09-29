@@ -13,11 +13,11 @@ It allows event organizers to create events and collect questions from their aud
 ---
 
 ## 📸 Screenshots
-### EventQ Login
+### 🔒 EventQ Login
 <img width="1860" height="956" alt="EventQ-login" src="https://github.com/user-attachments/assets/ff5d5ecf-cef7-4cac-bb73-7e408a0ba67d" />
 
 
-### EventQ Dashboard
+### Organizer Dashboard
 <img width="1850" height="944" alt="EventQ-dashboard" src="https://github.com/user-attachments/assets/4ba5723b-1532-4ad2-98af-40f0eb8ca68a" />
 
 
@@ -26,7 +26,7 @@ It allows event organizers to create events and collect questions from their aud
 <img width="1850" height="944" alt="EventQ-dashboard" src="https://github.com/user-attachments/assets/d3932aab-8b5c-40e1-a732-ec34a977a3d0" />
 
 
-### Audience Questions
+### Audience Experience
 
 <img width="420" height="787" alt="eventq-mobile-readme (1)" src="https://github.com/user-attachments/assets/cce150b7-c63a-4a0a-9f03-ad756a947aa9" />
 
