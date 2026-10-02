@@ -30,6 +30,13 @@ It allows event organizers to create events and collect questions from their aud
 
 <img width="420" height="787" alt="eventq-mobile-readme (1)" src="https://github.com/user-attachments/assets/cce150b7-c63a-4a0a-9f03-ad756a947aa9" />
 
+## 🎬 Demo Video
+### Desktop version
+https://github.com/user-attachments/assets/90d37b2d-a084-4cb2-98c9-769ad2031e64
+
+### 📱 Mobile version
+https://github.com/user-attachments/assets/2a731a5d-a97f-4baf-8bf1-852f39458571
+
 
 ---
 
